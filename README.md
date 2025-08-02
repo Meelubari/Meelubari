@@ -11,15 +11,15 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/2a69e0be-21d7-42c7-a683-f0a2f73974f0" height="40" alt="Excel" />
+  <img src="https://github.com/user-attachments/assets/2a69e0be-21d7-42c7-a683-f0a2f73974f0" height="20" alt="Excel_logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/e55466ed-5bb0-4e88-9d2b-0a02ba68f6be" height="40" alt="Power BI" />
+  <img src="https://github.com/user-attachments/assets/e55466ed-5bb0-4e88-9d2b-0a02ba68f6be" height="20" alt="Power BI_logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python_logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql_logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite_logo"  />
 
 </div>
 
@@ -31,16 +31,16 @@
 
 <div align="left">
   <a href="www.linkedin.com/in/meelubari-jolly-a31a371b4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/scarmeels" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="20" alt="twitter logo"  />
   </a>
   <a href="https://web.facebook.com/jpirated" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="20" alt="facebook logo"  />
   </a>
   <a href="jollymeelubari@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="20" alt="gmail logo"  />
   </a>
 </div>
 
