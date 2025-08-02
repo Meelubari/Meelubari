@@ -1,12 +1,14 @@
 <p align="left">Hi 👋 I am Meelubari Jolly</p>
 
-###
+#
 
-<p align="left">Welcome to my GitHub😊<br><br>I am a data analyst who assists energy and utility companies in transforming complex data into actionable strategies that reduce costs, enhance decision-making, and boost revenue growth.<br><br>With expertise in Power BI, Excel, SQL, and data visualization, I’ve delivered dashboards that reduced report generation time by 60% and uncovered patterns that shaped key business strategies.<br><br>🔍What I D Best<br><br>1. Cleaning and optimizing data - Fixing messy data so it is accurate and easy to use. <br><br>2. Finding Insight - Analyzing numbers to uncover trends and opportunities.<br><br>3. Building Dashboards - Creating Power BI and Excel reports that simplify complex data. <br><br>4. Working with Database - writing SQL queries to pull and analyze data.<br><br>I don't just analyze data, I decode, visualize, and strategize to turn data into smart business decisions. Whether it's optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smart decisions with data.</p>
+<p align="left">Welcome to my GitHub😊<br><br>I am a data analyst who assists energy and utility companies in transforming complex data into actionable strategies that reduce costs, enhance decision-making, and boost revenue growth.<br><br>With expertise in Power BI, Excel, SQL, and data visualization, I’ve delivered dashboards that reduced report generation time by 60% and uncovered patterns that shaped key business strategies.
+  <br><br>🔍What I D Best<br><br>
+  1. Cleaning and optimizing data - Fixing messy data so it is accurate and easy to use. <br><br>2. Finding Insight - Analyzing numbers to uncover trends and opportunities.<br><br>3. Building Dashboards - Creating Power BI and Excel reports that simplify complex data. <br><br>4. Working with Database - writing SQL queries to pull and analyze data.<br><br>I don't just analyze data, I decode, visualize, and strategize to turn data into smart business decisions. Whether it's optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smart decisions with data.</p>
 
-###
+#
 
-<p align="left">💻 Tech Stack :</p>
+<p align="left">💻 Viz Tools and Languages :</p>
 
 ###
 
@@ -23,7 +25,7 @@
 
 </div>
 
-###
+#
 
 <p align="left">Contact me 📞</p>
 
@@ -45,3 +47,14 @@
 </div>
 
 ###
+
+#
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meelubari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meelubari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+#
