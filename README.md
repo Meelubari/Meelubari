@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="left">Hi 👋 I am Meelubari Jolly</p>
 
-<!--
-**Meelubari/Meelubari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Welcome to my GitHub😊<br><br>I am a data analyst who assists energy and utility companies in transforming complex data into actionable strategies that reduce costs, enhance decision-making, and boost revenue growth.<br><br>With expertise in Power BI, Excel, SQL, and data visualization, I’ve delivered dashboards that reduced report generation time by 60% and uncovered patterns that shaped key business strategies.<br><br>🔍What I D Best<br><br>1. Cleaning and optimizing data - Fixing messy data so it is accurate and easy to use. <br><br>2. Finding Insight - Analyzing numbers to uncover trends and opportunities.<br><br>3. Building Dashboards - Creating Power BI and Excel reports that simplify complex data. <br><br>4. Working with Database - writing SQL queries to pull and analyze data.<br><br>I don't just analyze data, I decode, visualize, and strategize to turn data into smart business decisions. Whether it's optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smart decisions with data.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">💻 Tech Stack :</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://github.com/user-attachments/assets/2a69e0be-21d7-42c7-a683-f0a2f73974f0" height="40" alt="Excel" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e55466ed-5bb0-4e88-9d2b-0a02ba68f6be" height="40" alt="Power BI" />
+  <img width="12" />
+
+
+</div>
+
+###
+
+<p align="left">Contact me 📞</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/meelubari-jolly-a31a371b4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/scarmeels" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://web.facebook.com/jpirated" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="jollymeelubari@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
