@@ -1,10 +1,10 @@
-<p align="left">Hi 👋 I am Meelubari Jolly</p>
+<p align="left">👨🏿‍💻 Meelubari Jolly</p>
 
 #
 
-<p align="left">Welcome to my GitHub😊<br><br>I am a data analyst who assists energy and utility companies in transforming complex data into actionable strategies that reduce costs, enhance decision-making, and boost revenue growth.<br><br>With expertise in Power BI, Excel, SQL, and data visualization, I’ve delivered dashboards that reduced report generation time by 60% and uncovered patterns that shaped key business strategies.
-  <br><br>🔍What I D Best<br><br>
-  1. Cleaning and optimizing data - Fixing messy data so it is accurate and easy to use. <br><br>2. Finding Insight - Analyzing numbers to uncover trends and opportunities.<br><br>3. Building Dashboards - Creating Power BI and Excel reports that simplify complex data. <br><br>4. Working with Database - writing SQL queries to pull and analyze data.<br><br>I don't just analyze data, I decode, visualize, and strategize to turn data into smart business decisions. Whether it's optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smart decisions with data.</p>
+<p align="left">Welcome to my GitHub😊<br><br>I am a data analyst/data visualization engineer who assists energy and utility companies in transforming complex data into actionable strategies that reduce costs, enhance decision-making, and boost revenue growth.<br><br>With expertise in Power BI, Excel, and SQL, I’ve delivered dashboards that reduced report generation time by 60% and uncovered patterns that shaped key business strategies.
+  <br><br>🔍What I Do Best<br><br>
+  1. Cleaning and optimizing data - Fixing messy data so it is accurate and easy to use. <br><br>2. Finding Insight - Analyzing numbers to uncover trends and opportunities.<br><br>3. Building Dashboards - Creating Power BI and Excel reports that simplify complex data. <br><br>4. Working with Database - writing SQL queries to pull and analyze data.<br><br> 5. Automating Tasks – Saving time by reducing manual work with Power Query & Excel macros.<br><br> I don't just analyze data, I decode, visualize, and strategize to turn data into smart business decisions. Whether it's optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smart decisions with data.</p>
 
 #
 
